@@ -1,3 +1,8 @@
+# pip install beautifulsoup4
+# pip install streamlit
+# pip install requests
+# Run this comand from the project file "streamlit run QuoteGen.py"
+
 import streamlit as st
 import pandas as pa 
 import requests

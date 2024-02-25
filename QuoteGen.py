@@ -30,4 +30,4 @@ for quote in quotes:
     st.divider()
 
 st.balloons()
-st.caption('Made with ❤️ from Ritesh')
+st.caption('Made with ❤️ by Ritesh')
